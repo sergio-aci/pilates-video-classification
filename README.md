@@ -1,2 +1,4 @@
+![New Project.png](New Project.png)
+
 # pilates-video-classification
-Jupyter Notebooks to show its progress. Not finished yet.
+Deep learning network that uses transfer learning via VGG16 to classify between 3 different pilates exrecies
