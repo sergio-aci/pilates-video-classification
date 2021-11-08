@@ -4,7 +4,7 @@ import pandas as pd
 
 
 from frame_extraction import get_frames_from_folders
-from split_preprocces import split_data, images_to_array_with_classes
+from split_preprocess import split_data, images_to_array_with_classes
 from testing import test
 from training import train, hypertuning
 
